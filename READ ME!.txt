@@ -1,0 +1,6 @@
+Guimaras Product and Souvenir Online Retail
+Must Have:
+- Online selling of products and souvenir for costumers/users
+- Inventory of items to be selled online by administrators
+- Private messaging of sellers/admins and costumers/users
+- Paypal integration
